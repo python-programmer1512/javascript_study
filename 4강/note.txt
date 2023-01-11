@@ -1,0 +1,10 @@
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+vsc 단축키
+alt + 마우스 : 여러개 커서 설정
+or
+ctrl + alt + 방향키
+
+폰트는 consolas , d2coding
+전자는 한글이 폰트 크기를 일정하게 조절 불가능
+후자는 가능

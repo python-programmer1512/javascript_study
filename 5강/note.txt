@@ -1,0 +1,7 @@
+시작문자가 대문자면 class(저렇게 안해도 되지만 공동작업하면 욕먹을 가능성이 있음)
+다 대문자면 변수
+
+리액트: https://github.com/facebook/react
+리액트 util.js: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEE2M0MtYlItd3RNTDdQRk9UaGZ5aW8xb3RHZ3xBQ3Jtc0tuekF4ZGltRzR2UEpQVGVYbFdZbk5tY0gya3pDX1JnYmJDcDh1bEQxblh1eEd3RTgtSzN1MTQ2ZmdEYW0tTGZoWEdNU2Jmdjk0eDJ5dnhjZG1qOXNieGVpbk5kSmc2ejh4ek43RzFNN3ZzYVJpRWU4Zw&q=https%3A%2F%2Fgithub.com%2Ffacebook%2Freact%2Fblob%2Fmaster%2Fscripts%2Frelease%2Futils.js&v=PU_QuhU1Vfs
+
+뭐가 뭔지 공부할때 살펴보기(class 인가,변수인가,함수인가,등)
